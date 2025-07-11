@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+calculadora-pedidos,com.ejemplo,App,7,0,0,0,3,0,2,0,2,0
+calculadora-pedidos,com.devopsgang,DiscountService,11,0,2,0,3,0,3,0,2,0
+calculadora-pedidos,com.devopsgang,OrderService,6,28,2,2,1,7,2,2,0,2
